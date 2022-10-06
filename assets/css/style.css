@@ -1,0 +1,212 @@
+.one{
+    /* О курсе */
+
+position: absolute;
+width: 365px;
+height: 93px;
+left: 124px;
+top: 91px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+
+color: #000000;
+
+
+}
+.two{
+    /* Порой фильмы устроены сложнее четырёхтомных романов. Но читать книги учат со школы, а смотреть кино — нет. При этом без подготовки бывает трудно получить от просмотра удовольствие. На курсе из 8 занятий научимся быть осознанными зрителями. Познакомимся с этапами кинопроизводства и узнаем, как смотреть кино глазами сценариста, режиссёра и монтажёра. Разберёмся в особенностях жанров и рассмотрим важнейшие картины, от «Гражданина Кейна» до «Матрицы». */
+
+position: absolute;
+width: 662px;
+height: 374px;
+left: 124px;
+top: 202px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+color: #000000;
+
+
+}
+.three{
+    /* _1 1 */
+
+position: absolute;
+width: 314px;
+height: 315px;
+left: 976px;
+top: 226px;
+
+background: url(_1.png);
+
+}
+.container{
+    /* Ellipse 2 */
+
+position: absolute;
+width: 366px;
+height: 59px;
+left: 950px;
+top: 511px;
+
+background: #EFEFEF;
+
+}
+.four{
+    /* photo 1 */
+
+position: absolute;
+width: 232px;
+height: 203px;
+left: 124px;
+top: 670px;
+
+background: url(photo.png);
+
+}
+.containerone{
+    /* Ellipse 3 */
+
+position: absolute;
+width: 189px;
+height: 32px;
+left: 157px;
+top: 857px;
+
+background: #EFEFEF;
+
+}
+.tural{
+    /* 8 занятий */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 488px;
+top: 740px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.elgun{
+    /* Для погружения в кинематограф */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 488px;
+top: 780px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+.aysun{
+    /* 2 часа */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 733px;
+top: 740px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.humay{
+    /* Длительность каждого занятия */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 733px;
+top: 780px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+.rehman{
+    /* 3 недели */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 976px;
+top: 740px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.sevil{
+    /* Длительность курса */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 976px;
+top: 780px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+
+
+
+
